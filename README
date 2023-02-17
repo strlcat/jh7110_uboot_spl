@@ -1,3 +1,8 @@
+*** DEPRECATED ***
+
+This code was upstreamed into https://github.com/starfive-tech/Tools/, replacing proprietary one,
+with more features added by StarFive developers, and now maintained there. This version will be archived.
+
 DESCRIPTION
 
 A replacement for VisionFive2 SDK spl_tool which happened to be proprietary.
